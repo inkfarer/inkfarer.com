@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "765592ad76a38f528a87fe3471bd4b81",
+    "revision": "55a55f76f9c8ec1f565e111b1db5d391",
     "url": "/inkfarer.com/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/inkfarer.com/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "1a0c73f003ecb6f02272",
+    "revision": "06d47a005859d6ccf844",
     "url": "/inkfarer.com/static/css/main.be1003ea.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/inkfarer.com/static/js/2.06433e11.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1a0c73f003ecb6f02272",
-    "url": "/inkfarer.com/static/js/main.8e2e94bd.chunk.js"
+    "revision": "06d47a005859d6ccf844",
+    "url": "/inkfarer.com/static/js/main.1799def7.chunk.js"
   },
   {
     "revision": "2ef949cd4a79b0cecd87",
