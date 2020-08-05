@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/inkfarer.com/static/css/main.be1003ea.chunk.css",
-    "main.js": "/inkfarer.com/static/js/main.1799def7.chunk.js",
-    "main.js.map": "/inkfarer.com/static/js/main.1799def7.chunk.js.map",
+    "main.css": "/inkfarer.com/static/css/main.5a24d231.chunk.css",
+    "main.js": "/inkfarer.com/static/js/main.7f7e73fb.chunk.js",
+    "main.js.map": "/inkfarer.com/static/js/main.7f7e73fb.chunk.js.map",
     "runtime-main.js": "/inkfarer.com/static/js/runtime-main.d2b3dbbb.js",
     "runtime-main.js.map": "/inkfarer.com/static/js/runtime-main.d2b3dbbb.js.map",
     "static/css/2.af3c1da9.chunk.css": "/inkfarer.com/static/css/2.af3c1da9.chunk.css",
     "static/js/2.06433e11.chunk.js": "/inkfarer.com/static/js/2.06433e11.chunk.js",
     "static/js/2.06433e11.chunk.js.map": "/inkfarer.com/static/js/2.06433e11.chunk.js.map",
     "index.html": "/inkfarer.com/index.html",
-    "precache-manifest.6cd76b90403f04186a136b091f98f10b.js": "/inkfarer.com/precache-manifest.6cd76b90403f04186a136b091f98f10b.js",
+    "precache-manifest.01a3db65c84adddd192260cbede85fdd.js": "/inkfarer.com/precache-manifest.01a3db65c84adddd192260cbede85fdd.js",
     "service-worker.js": "/inkfarer.com/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/inkfarer.com/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.be1003ea.chunk.css.map": "/inkfarer.com/static/css/main.be1003ea.chunk.css.map",
+    "static/css/main.5a24d231.chunk.css.map": "/inkfarer.com/static/css/main.5a24d231.chunk.css.map",
     "static/js/2.06433e11.chunk.js.LICENSE.txt": "/inkfarer.com/static/js/2.06433e11.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d2b3dbbb.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.06433e11.chunk.js",
-    "static/css/main.be1003ea.chunk.css",
-    "static/js/main.1799def7.chunk.js"
+    "static/css/main.5a24d231.chunk.css",
+    "static/js/main.7f7e73fb.chunk.js"
   ]
 }
