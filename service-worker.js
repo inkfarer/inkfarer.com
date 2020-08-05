@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/inkfarer.com/precache-manifest.09b9f5ef9bc9985a974ed4381494efd8.js"
+  "/inkfarer.com/precache-manifest.811d31a74aaba8a3dbca23f7824d74f3.js"
 );
 
 self.addEventListener('message', (event) => {
