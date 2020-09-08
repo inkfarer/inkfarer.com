@@ -1,3 +1,6 @@
+A dope single page app recreation of my website at [inkfarer.com](https://inkfarer.com). Pre-generated readme below...
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
